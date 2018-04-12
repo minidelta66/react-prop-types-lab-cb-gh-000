@@ -23,6 +23,5 @@ Order.propTypes = {
   name: PropTypes.string.isRequired,
   producer: PropTypes.string,
   hasWatermark: PropTypes.bool,
-  color: PropTypes.
-  weight: 
+  
 }
